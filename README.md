@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Yuqing Wang from China.
 - 👀 I’m interested in computer vision, especially instance segmentation. 
 - 🌱 I’m currently learning weakly/un-supervised learning and generative models.
-- 💞️ I’m looking for a PhD position on computer vision.
 - 📫 How to reach me : Email: epiphqny1029@gmail.com, Wechat: Epiphqny94
 
 <!---
