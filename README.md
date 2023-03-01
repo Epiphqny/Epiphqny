@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Yuqing Wang from China.
+- 👋 Hi, I’m Yuqing Wang from Alibaba.
 - 👀 I’m interested in computer vision, especially instance segmentation. 
-- 🌱 I’m currently learning weakly/un-supervised learning and generative models.
+- 🌱 I’m currently learning generative models.
 - 📫 How to reach me : Email: yuqingwang1029@gmail.com
 
 <!---
