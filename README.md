@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Yuqing Wang from Alibaba.
-- 👀 I’m interested in computer vision, especially instance segmentation. 
-- 🌱 I’m currently learning generative models.
-- 📫 How to reach me : Email: yuqingwang1029@gmail.com
+- 👋 Hi, I’m Yuqing Wang, a PhD student in the University of Hong Kong.
+- 👀 I’m interested in computer vision and generative models.
+- 📫 How to reach me : yuqingwang1029@gmail.com.
 
 <!---
 Epiphqny/Epiphqny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
